@@ -64,7 +64,7 @@ class ManageProduct extends Component {
         })
     }
 
-    addProduct = () => {
+    addProduct = () => { // fn untuk add product
         const nama = this.name.value
         const desk = this.desc.value
         const harga = this.price.value
