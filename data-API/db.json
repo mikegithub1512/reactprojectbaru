@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "tes",
+      "password": "satu"
+    },
+    {
+      "user": "tes2",
+      "email": "tes@gmail.com",
+      "pass": "tes2",
+      "id": 2
+    },
+    {
+      "username": "tes3",
+      "email": "tes3@gmail.com",
+      "password": "tes3",
+      "id": 3
+    },
+    {
+      "params": {
+        "username": "tess"
+      },
+      "id": 4
+    },
+    {
+      "params": {
+        "username": "tes2"
+      },
+      "id": 5
+    },
+    {
+      "params": {
+        "username": "jdfj"
+      },
+      "id": 6
+    },
+    {
+      "params": {
+        "username": "jdfj"
+      },
+      "id": 7
+    },
+    {
+      "params": {
+        "username": "jdfj"
+      },
+      "id": 8
+    },
+    {
+      "params": {
+        "username": "jdfj"
+      },
+      "id": 9
+    },
+    {
+      "params": {
+        "username": "jdfj"
+      },
+      "id": 10
+    },
+    {
+      "params": {
+        "username": "fdsf"
+      },
+      "id": 11
+    },
+    {
+      "username": "gfdg",
+      "email": "gdfg",
+      "password": "gfdg",
+      "id": 12
+    },
+    {
+      "username": "tes2",
+      "email": "gdfg",
+      "password": "gfdg",
+      "id": 13
+    },
+    {
+      "username": "tes6",
+      "email": "csd",
+      "password": "tes6",
+      "id": 14
+    },
+    {
+      "username": "cfsdc",
+      "email": "",
+      "password": "",
+      "id": 15
+    }
+  ],
+  "products": [
+    {
+      "name": "T_shirt VB Nefcdsc",
+      "desc": "cce iss",
+      "price": 10003,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 2
+    },
+    {
+      "name": "vdsgfs",
+      "desc": "43242",
+      "price": 321321423423,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 3
+    },
+    {
+      "name": "vdsgfs",
+      "desc": "fgsdvgsdcdaca",
+      "price": 321312432432,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 4
+    },
+    {
+      "name": "fefer",
+      "desc": "retretre",
+      "price": 543534423423,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 5
+    },
+    {
+      "name": "fefer",
+      "desc": "retretre",
+      "price": "543534423423",
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 6
+    },
+    {
+      "name": "vdsv",
+      "desc": "vsdv",
+      "price": "vsdv",
+      "src": "vdsv",
+      "id": 7
+    }
+  ]
+}
