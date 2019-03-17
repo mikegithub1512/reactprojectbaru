@@ -41,7 +41,7 @@ class Header extends Component {
                 <div>
                     <Navbar color="light" light expand="md">
                         <div className="container">
-                            <Link className="navbar-brand" to="/">simpleMerce</Link>
+                            <Link className="navbar-brand" to="/">Purwatravel</Link>
                             <NavbarToggler onClick={this.toggle} />
                             <Collapse isOpen={this.state.isOpen} navbar>
                                 <Nav className="ml-auto" navbar>
@@ -96,7 +96,7 @@ class Header extends Component {
                 <div>
                     <Navbar color="light" light expand="md">
                         <div className="container">
-                            <NavbarBrand href="/">simpleMerce</NavbarBrand>
+                            <NavbarBrand href="/">PurwaTravel</NavbarBrand>
                             <NavbarToggler onClick={this.toggle} />
                             <Collapse isOpen={this.state.isOpen} navbar>
                                 <Nav className="ml-auto" navbar>
