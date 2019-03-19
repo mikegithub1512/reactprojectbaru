@@ -26,6 +26,15 @@ class Home extends Component {
             )
         })
     }
+     onBtnSearch =()=> {
+            const name = this.name.value
+            const min = parseInt(this.min.value)
+            const max = parseInt(this.max.value)
+
+            this.state.products.filter(item => {
+                
+            })
+    }
 
     render() {
         return (
